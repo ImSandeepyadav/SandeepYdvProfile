@@ -299,10 +299,10 @@ export default function ProfileCard() {
     },
   ];
   return (
-    <div className="flex justify-center mt-5 mb-10">
+    <div className="flex justify-center">
       <Card
         isBlurred
-        className="border-none  dark:bg-default-100/50 max-w-[610px] bg-[#f0dee9b1]"
+        className="border-none  dark:bg-default-100/50 max-w-[600px] bg-[#f0dee9b1] mt-10"
         shadow="sm"
       >
         <CardBody>
@@ -396,6 +396,7 @@ export default function ProfileCard() {
                 <a
                   href="https://drive.google.com/file/d/14RHhLDDiwrDkdo4Y8ufZFYcQ8yatxBew/view?usp=sharing"
                   download
+                  target="_blank"
                 >
                   <Button
                     className="border text-white bg-[#fa9696]"
