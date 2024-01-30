@@ -394,7 +394,7 @@ export default function ProfileCard() {
                   </Button>
                 </a>
                 <a
-                  href="https://drive.google.com/file/d/14RHhLDDiwrDkdo4Y8ufZFYcQ8yatxBew/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1EOQweSGp321OH-BjEjJqsozXYEJBLd_Q/view?usp=sharing"
                   download
                   target="_blank"
                 >
